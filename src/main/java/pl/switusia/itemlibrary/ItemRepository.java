@@ -1,4 +1,4 @@
-package pl.switusia.movielibrary;
+package pl.switusia.itemlibrary;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;

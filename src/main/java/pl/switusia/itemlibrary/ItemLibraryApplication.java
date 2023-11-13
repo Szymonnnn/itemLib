@@ -1,4 +1,4 @@
-package pl.switusia.movielibrary;
+package pl.switusia.itemlibrary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

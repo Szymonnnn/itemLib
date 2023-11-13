@@ -1,4 +1,4 @@
-package pl.switusia.movielibrary;
+package pl.switusia.itemlibrary;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
